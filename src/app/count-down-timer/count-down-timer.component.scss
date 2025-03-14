@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh; /* Full screen height */
+    text-align: center;
+  }
+
+  .countdown {
+    font-size: 24px;
+    font-weight: bold;
+  }
